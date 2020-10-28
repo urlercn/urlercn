@@ -1,9 +1,12 @@
-# 授权口令
+# 其他口令
 ## 获取自己的openid
-    myopenid
+	myopenid
+    
+## 同意短链接《审核规则》
+	authme
 
 ## 添加授权
-    addauth + 'openid'
+	addauth + 'openid'
 
 * 需要授权
 
