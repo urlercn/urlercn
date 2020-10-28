@@ -5,7 +5,7 @@
 
 * 生成短链接
 
-		url + (pwd) + 'url' + ('code')
+		url + 'url' + ('code')
 
 * 查询食物热量
 
