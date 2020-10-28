@@ -2,4 +2,5 @@
   - [口令规则](key/rules.md)
   - [常用口令](key/common.md)
   - [短链接口令](key/short-url.md)
-  - [授权口令](key/auth.md)
+  - [插件口令](key/plugins.md)
+  - [其他口令](key/other.md)
