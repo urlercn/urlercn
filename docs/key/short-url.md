@@ -1,8 +1,6 @@
 # 短链接口令
 ## 生成短链接
-    url + (pwd) + 'url' + ('code')
-
-* 需要授权
+	url + (pwd) + 'url' + ('code')
 
 * 参数
 
@@ -21,9 +19,7 @@
 		url https://zhe.xiaobannet.com youhui
 
 ## 重置密码
-    pwd + 'url'
-
-* 需要授权
+	pwd + 'url'
 
 * 参数
 
@@ -32,16 +28,23 @@
 * 例子
 
 		pwd https://urler.cn/youhui
+		
+## 清空密码
+	clear + 'url'
+	
+* 参数
+
+		url：替换为生成的短链接
+
+* 例子
+
+		clear https://urler.cn/youhui
 
 ## 查看近期生成的短链接
-    alldata
-
-* 需要授权
+	alldata
 
 ## 查看短链接数据
-    data + 'url'
-
-* 需要授权
+	data + 'url'
 
 * 参数
 
