@@ -1,4 +1,7 @@
 # 其他口令
+## 意见建议/问题反馈
+	feedback
+
 ## 获取自己的openid
 	myopenid
     
